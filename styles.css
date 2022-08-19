@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
 
 body {
 	margin: 0;
@@ -6,9 +6,9 @@ body {
 }
 
 header {
-	font-family: "Lucida Console";
+	font-family: "Ranchers";
 	border-bottom: 1px dashed #b5e853;
-	letter-spacing: -0.03em;
+	letter-spacing: 0.03em;
 }
 
 header h1 {
