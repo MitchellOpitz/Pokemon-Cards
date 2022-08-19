@@ -1,3 +1,7 @@
+## Pokemon Cards
+
+Yes, mom.  You've made it to the correct page.  Has not yet been set up the way we discussed.  Will be making that adjustment in the near future.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MitchellOpitz/Pokemon-Cards/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
