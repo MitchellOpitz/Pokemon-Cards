@@ -23,8 +23,39 @@ header h2 {
 .container {
 	max-width: 1024px;
 	padding: 2rem;
+	margin: 0 auto;
 }
 
 body {
 	color: #eaeaea;
+}
+
+table {
+	width: 100%;
+	color: #000000;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #b5e853;
+  color: #000000;
+}
+
+th, td {
+	padding-left: 12px;
+	width: auto;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+	background-color: #ffffff;
+}
+
+tr:hover {
+	background-color: #ddd;
 }
