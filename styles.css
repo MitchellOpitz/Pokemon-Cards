@@ -20,6 +20,14 @@ header h2 {
     text-shadow: 0 1px 1px rgb(0 0 0 / 10%), 0 0 5px rgb(181 232 83 / 10%), 0 0 10px rgb(181 232 83 / 10%);
 }
 
+header a {
+	color:  #b5e853;
+}
+
+header a:hover {
+	color:  #e2b520;
+}
+
 .container {
 	max-width: 1024px;
 	padding: 2rem;
@@ -28,6 +36,22 @@ header h2 {
 
 body {
 	color: #eaeaea;
+	line-height: 1.3;
+	font-size: 1.2rem;
+	font-family: sans-serif;
+}
+
+#table-of-contents {
+	background-color: #ffffff;
+	padding: 1rem;
+}
+
+#table-of-contents li {
+	list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #b5e853;
 }
 
 table {
@@ -58,4 +82,9 @@ tr:nth-child(odd) {
 
 tr:hover {
 	background-color: #ddd;
+}
+
+img {
+	max-width: 80%;
+	margin: 0 auto;
 }
