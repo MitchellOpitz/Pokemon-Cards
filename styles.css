@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body {
+	margin: 0;
+	background: #151515 url("https://pages-themes.github.io/hacker/assets/images/bkg.png") 0 0;
+}
+
+header {
+	font-family: "Lucida Console";
+	border-bottom: 1px dashed #b5e853;
+	letter-spacing: -0.03em;
+}
+
+header h1 {
+	color: #b5e853;
+}
+
+header h2 {
+	color: #666666;
+    text-shadow: 0 1px 1px rgb(0 0 0 / 10%), 0 0 5px rgb(181 232 83 / 10%), 0 0 10px rgb(181 232 83 / 10%);
+}
+
+.container {
+	max-width: 1024px;
+	padding: 2rem;
+}
