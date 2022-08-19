@@ -24,3 +24,7 @@ header h2 {
 	max-width: 1024px;
 	padding: 2rem;
 }
+
+body {
+	color: #eaeaea;
+}
